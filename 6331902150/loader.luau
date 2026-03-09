@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sigma-ware/ShitScripts/refs/heads/main/forsaken.lua"))()
