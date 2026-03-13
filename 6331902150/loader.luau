@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sigma-ware/ShitScripts/refs/heads/main/forsaken.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ivannetta/ShitScripts/refs/heads/main/".."\102\111\114\115\97\107\101\110\46\108\117\97"))()
